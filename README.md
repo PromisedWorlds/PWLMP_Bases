@@ -12,6 +12,7 @@ We are planning a community event to deliver base parts to Minmus, after which J
 ## ModuleManager Patches
 - Disables Parallax collisions, to make sure all players have the same collisions.
 - Adds a configuration for BetterTimeWarp Continued for 0.999x physics warp. Use this when your game is lagging (yellow time) - it will be more visually laggy, but your physics will be more stable.
+- Promised Worlds: overrides Promised Worlds settings (those that matter for gameplay) to keep a consistent experience (no wormholes, 1x scale / distance)
 
 # Dependencies
 - [Kerbal Konstructs](https://github.com/KSP-RO/Kerbal-Konstructs)
